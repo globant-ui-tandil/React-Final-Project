@@ -1,5 +1,15 @@
 # React Bootcamp 2017 - Spotify Client
 
+## Set up
+
+1. Hacerse un fork.
+2. Clonarselo.
+3. En la consola:
+    * Ir a la carpeta del proyecto nuevo: `cd React-Final-Project`.
+    * Ejecutar el comando `npm install` para instalar las dependencias.
+    * Ejecutar el comando `npm start` para iniciar la aplicación.
+    * Enjoy!
+
 ## Introducción
 
 Como usuario, quiero poder buscar un artista en spotify y ver sus álbumes y canciones. Además, quiero poder marcar mis canciones favoritas. (opcional)
@@ -98,8 +108,10 @@ GET [https://api.spotify.com/v1/albums/10GYbpGRnCbUd5WsDzqHAv](https://api.spoti
 
 * [React Router - Docs](https://reacttraining.com/react-router/)
 
-* [Egghead - Curso Básico de React](https://egghead.io/courses/react-fundamentals)
+* [Introducción a JSX](https://facebook.github.io/react/docs/introducing-jsx.html)
 
 * [React LocalStorage](https://github.com/STRML/react-localstorage)
 
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.czw7rr9kf)
+
+* [Egghead - Curso Básico de React](https://egghead.io/courses/react-fundamentals)
